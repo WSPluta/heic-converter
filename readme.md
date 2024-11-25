@@ -9,10 +9,10 @@ A simple Python script to convert HEIC images to PNG format.
 
 ## Usage  
 
-- Clone the repository: git clone 
-- Navigate to the project directory: cd your-repo-name
-- Install the required libraries: pip install -r requirements.txt
-- Run the script: python main.py
+- Clone the repository: `git clone https://github.com/WSPluta/heic-converter.git`
+- Navigate to the project directory: `cd heic-converter`
+- Install the required libraries: `pip install -r requirements.txt`
+- Run the script: `python main.py`
 - Follow the prompts to select the input directory containing HEIC files.
 
 ## Features  
